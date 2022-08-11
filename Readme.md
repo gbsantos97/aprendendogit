@@ -1,1 +1,2 @@
-aprendendo usar git
+aprendendo usar GIT
+isso é uma alteração
